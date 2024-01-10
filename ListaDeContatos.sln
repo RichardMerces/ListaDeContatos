@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeContatos", "ListaDeContatos\ListaDeContatos.csproj", "{F31D6C15-2BBF-4BD5-91F1-75B191DE344D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31D6C15-2BBF-4BD5-91F1-75B191DE344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31D6C15-2BBF-4BD5-91F1-75B191DE344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31D6C15-2BBF-4BD5-91F1-75B191DE344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31D6C15-2BBF-4BD5-91F1-75B191DE344D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A8F602-E344-4E9B-A445-C910A2F64D67}
+	EndGlobalSection
+EndGlobal
