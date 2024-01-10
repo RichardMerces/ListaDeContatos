@@ -7,5 +7,5 @@ Este projeto em .NET apresenta um Sistema de Gerenciamento de Contatos com funci
 
 - .NET 6.0
 - SQL SERVER
-- aZURE
+- AZURE
 
